@@ -1,7 +1,7 @@
 {
   "name": "rollup-plugin-yamlx",
   "version": "0.0.1",
-  "description": "Enhanced yaml plugin for rollup/vite.",
+  "description": " An enhanced Rollup/Vite plugin which converts YAML files to ES6 modules.",
   "keywords": [
     "rollup-plugin",
     "vite-plugin",
